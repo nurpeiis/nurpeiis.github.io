@@ -1,3 +1,2 @@
-Brandon D. Amos is a Computer Science Ph.D. student at Carnegie Mellon University
-with research interests in machine learning, computer vision, and mobile computing.
-He obtained a B.S. in Computer Science from Virginia Tech in May 2014.
+Nurpeiis Baimukan is a Computer Science student at New York University Abu Dhabi
+with research interests in software engineering, natural language processing, machine learning and ed tech
