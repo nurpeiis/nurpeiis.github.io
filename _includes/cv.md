@@ -4,7 +4,7 @@ I am a third year student at <b>New York University Abu Dhabi</b> My profile con
 
 <table class="table table-hover">
   <tr>
-    <td class="col-md-3">Aug 2017 - December 2021</td>
+    <td class="col-md-3">August 2017 - December 2021</td>
     <td>
         <strong>B.S. in Computer Science & Computer Engineering</strong>
           (3.9/4.0)
@@ -28,7 +28,7 @@ I am a third year student at <b>New York University Abu Dhabi</b> My profile con
 <table class="table table-hover">
 <tr>
   <td class='col-md-3'>March 2020 - Present</td>
-  <td><strong>Dapi</strong>, Software Engineering Intern</td>
+  <td><strong>Dapi</strong>, Software Engineer</td>
 </tr>
 <tr>
 </tr>
